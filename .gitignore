@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+_test/
+build/
+dist/
+*.spec
+
+# 设计过程用的外部参考图（版权不明，不入库）
+design/_ref_*.png
